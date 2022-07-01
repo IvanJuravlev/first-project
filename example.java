@@ -1,5 +1,7 @@
 public class example {
     public static void main(String[] args) {
-        itn b = 22;
+        
+        int b = 22;
+        
     }
 }
